@@ -15,6 +15,12 @@ h1 {
     position: relative;
     color: #333;
     font-size: 4em;
+    letter-spacing: 5px;
+    border-bottom: 16px solid #333;
+    line-height: 1.4;
+    font-family: consolas;
+    text-transform: uppercase;
+
 }
 
 
