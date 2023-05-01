@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    left: 0;
-    width: 100%;
-    color:dodgerblue;
-    border-bottom: 16px solid dodgerblue;
-    animation: lod 2s linear infinite;
+    background-color: black;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
 
 
