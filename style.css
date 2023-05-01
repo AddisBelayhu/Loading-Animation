@@ -35,6 +35,13 @@ h1::before {
     overflow: hidden;
 }
 
+@keyframes lod {
+    0% {
+        width: 0;
+    }
+
+    
+}
 
 
 
